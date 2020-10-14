@@ -1,0 +1,29 @@
+/*
+Theme Name: projeto
+Theme URI: https://wordpress.org/
+Author: Elias 
+Author URI:
+Description: esse é um tema bem simples
+Requires at least: 
+Requires PHP: oooooooo
+Version: 0.0.0
+License: free 
+License URI: 
+Text Domain: projeto
+Tags: simples tema de wp 
+
+*/
+*{
+margin :0;
+padding:0;
+
+} 
+.retiraponto {
+
+		list-style-type: none;
+}
+.escrita{
+	
+text-shadow: 1px 1px #333;
+	
+}
